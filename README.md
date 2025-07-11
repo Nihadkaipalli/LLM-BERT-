@@ -40,7 +40,7 @@ pip install transformers datasets evaluate scikit-learn matplotlib seaborn
 
 Or, run the notebook directly in **Google Colab**:
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/yourusername/bert-sentiment-analysis/blob/main/notebook.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1RignBtLAR5mFcr7gJ4a5AYuqlos8NZ4T?usp=sharing)
 
 ---
 
@@ -61,7 +61,6 @@ bert-sentiment-analysis/
 │   ├── pytorch_model.bin
 │   └── vocab.txt
 ├── README.md                   # This file
-└── requirements.txt            # (Optional) Package list
 ```
 
 ---
@@ -96,10 +95,8 @@ Training and evaluation plots are saved in `/figures` for reporting and visualiz
 
 ## 👤 Author
 
-**Mohammed Nihad K.**  
-Student ID: `12345678`  
-GitHub: [@yourusername](https://github.com/yourusername)
-
+**Mohammed Nihad Kaipalli**  
+Student ID: `22081746`  
 ---
 
 ## 📚 References
